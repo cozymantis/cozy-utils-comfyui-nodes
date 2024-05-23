@@ -1,0 +1,14 @@
+[project]
+name = "cozy-utils-comfyui-nodes"
+description = "Various cozy nodes, made with 💚 by the CozyMantis squad."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/cozymantis/cozy-utils-comfyui-nodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "cozy-utils-comfyui-nodes"
+Icon = ""
