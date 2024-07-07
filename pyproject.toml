@@ -9,6 +9,6 @@ Repository = "https://github.com/cozymantis/cozy-utils-comfyui-nodes"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
-DisplayName = "cozy-utils-comfyui-nodes"
+PublisherId = "cozymantis"
+DisplayName = "Cozy Utils Nodes"
 Icon = ""
