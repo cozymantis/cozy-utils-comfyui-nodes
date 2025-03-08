@@ -2,7 +2,7 @@
 name = "cozy-utils-comfyui-nodes"
 description = "Various cozy nodes, made with 💚 by the CozyMantis squad."
 version = "1.0.0"
-license = "LICENSE"
+license = { file = "LICENSE.md" }
 
 [project.urls]
 Repository = "https://github.com/cozymantis/cozy-utils-comfyui-nodes"
